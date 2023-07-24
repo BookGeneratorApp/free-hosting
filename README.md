@@ -1,5 +1,6 @@
 # free-hosting
 free-hosting is a Markdown Free Hosting Services List.
+
 ## Free Web Hosting:
 1. [InfinityFree](https://infinityfree.net/): InfinityFree offers unlimited disk space and bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
 
@@ -33,4 +34,25 @@ free-hosting is a Markdown Free Hosting Services List.
 2. [ResellerCluster](https://resellercluster.com/): ResellerCluster offers a free reseller hosting program with a customizable storefront and the ability to sell hosting services under your brand.
 
 3. [MyOwnFreeHost](https://myownfreehost.net/): MyOwnFreeHost provides a free reseller hosting program with VistaPanel access and the ability to create your own hosting packages to resell.
+
+## Free Domain Providers:
+1. [Freenom](https://www.freenom.com/): Freenom offers free domain names with extensions like .tk and paid domains like .com, .net, .org, etc.
+
+2. [Dot.tk](http://www.dot.tk/): Dot.tk allows you to register free .tk domain names.
+
+## Free VPS Providers:
+1. [VPSWALA](http://vpswala.org/): VPSWALA offers free VPS hosting with limited resources for personal and development use.
+
+2. [InstaFree](https://instafree.com/): InstaFree provides free VPS hosting, allowing you to try their services before upgrading.
+
+3. [Oracle Cloud Free Tier](https://oracle.com/cloud/free): Oracle Cloud Free Tier offers a limited trial period with various services, including a free VPS hosting option. Users can try out their services within the trial period before considering an upgrade or opting for their paid plans.
+
+## Free Video Hosting:
+1. [YouTube](https://www.youtube.com/): YouTube is one of the most popular free video hosting platforms, allowing users to upload, share, and embed videos on websites and social media.
+
+2. [Vimeo](https://vimeo.com/): Vimeo offers free video hosting with limited storage and features. It is suitable for sharing and embedding videos on websites and blogs.
+
+3. [Dailymotion](https://www.dailymotion.com/): Dailymotion provides free video hosting and sharing services, allowing users to upload and embed videos on their websites.
+
+4. [Peertube](https://joinpeertube.org/): Peertube is a decentralized video hosting platform, where you can host videos on your own server or join existing instances for free.
 
