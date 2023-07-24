@@ -40,6 +40,10 @@ free-hosting is a Markdown Free Hosting Services List.
 
 2. [Dot.tk](http://www.dot.tk/): Dot.tk allows you to register free .tk domain names.
 
+3. [EU.org](https://eu.org/): EU.org provides free domain registrations under the .eu.org subdomain.
+
+4. [FreeDNS.afraid.org](https://freedns.afraid.org/): FreeDNS.afraid.org offers free DNS hosting services with support for dynamic DNS, allowing you to create and manage your DNS records.
+
 ## Free VPS Providers:
 1. [VPSWALA](http://vpswala.org/): VPSWALA offers free VPS hosting with limited resources for personal and development use.
 
