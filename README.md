@@ -1,5 +1,80 @@
 # free-services
 free-services is a Markdown Free Online Services List.
+## Free Graphic Design Tools:
+1. [Canva](https://www.canva.com/): Canva offers a free graphic design platform with templates for social media graphics, presentations, and more.
+
+2. [GIMP](https://www.gimp.org/): GIMP is a free and open-source image editing software with a wide range of features.
+
+3. [Inkscape](https://inkscape.org/): Inkscape is a free vector graphics editor suitable for creating illustrations, logos, and icons.
+
+## Free Music Streaming:
+1. [Spotify Free](https://www.spotify.com/): Spotify provides a free version with ad-supported music streaming and playlists.
+
+2. [Pandora](https://www.pandora.com/): Pandora offers free music streaming with personalized radio stations.
+
+3. [SoundCloud](https://soundcloud.com/): SoundCloud allows users to listen to free music from independent artists and creators.
+
+## Free eBook and Audiobook Platforms:
+1. [Project Gutenberg](https://www.gutenberg.org/): Project Gutenberg offers a vast collection of free eBooks, including literary classics.
+
+2. [Librivox](https://librivox.org/): Librivox provides free audiobooks recorded by volunteers from public domain works.
+
+## Free Online Code Editors:
+1. [CodePen](https://codepen.io/): CodePen is a free online code editor and development environment for front-end web development.
+
+2. [Repl.it](https://replit.com/): Repl.it offers a free collaborative coding platform supporting multiple programming languages.
+
+## Free Cloud-based Note Taking:
+1. [Evernote](https://evernote.com/): Evernote provides a free version for note-taking and organization across devices.
+
+2. [OneNote](https://www.onenote.com/): OneNote by Microsoft offers free note-taking and collaboration features.
+
+## Free Virtualization Software:
+1. [VirtualBox](https://www.virtualbox.org/): VirtualBox is a free and open-source virtualization software to run virtual machines.
+
+2. [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html): VMware Workstation Player offers a free version for personal use to run virtual machines.
+
+## Free Screen Recording and Capture:
+1. [OBS Studio](https://obsproject.com/): OBS Studio is a free and open-source software for screen recording and live streaming.
+
+2. [Greenshot](https://getgreenshot.org/): Greenshot allows free screen capture with annotation and editing features.
+
+## Free Online File Converters:
+1. [Online-Convert](https://www.online-convert.com/): Online-Convert offers free file conversion between various formats.
+
+2. [Zamzar](https://www.zamzar.com/): Zamzar allows free online file conversion for documents, images, videos, and more.
+
+## Free Remote Desktop Software:
+1. [AnyDesk](https://anydesk.com/): AnyDesk provides a free remote desktop solution for personal use.
+
+2. [TeamViewer](https://www.teamviewer.com/): TeamViewer offers a free version for personal remote access and support.
+
+## Free Cloud-based Video Editing:
+1. [Clipchamp](https://www.clipchamp.com/): Clipchamp allows free online video editing with a variety of tools and export options.
+
+2. [Kapwing](https://www.kapwing.com/): Kapwing offers free video editing for social media content and meme creation.
+
+## Free Data Backup and Sync:
+1. [Sync.com](https://www.sync.com/): Sync.com provides free cloud storage with secure data backup and file synchronization.
+
+2. [Google Backup and Sync](https://www.google.com/drive/download/backup-and-sync/): Google Backup and Sync offers free backup and sync for files and photos to Google Drive.
+
+## Free Video Conferencing and Webinars:
+1. [Jitsi](https://meet.jit.si/): Jitsi is an open-source platform for free video conferencing and webinars.
+
+2. [Livestorm](https://livestorm.co/): Livestorm offers free webinars and online events for up to 20 minutes duration.
+
+## Free Online Mind Mapping:
+1. [MindMup](https://app.mindmup.com/): MindMup allows free online mind mapping and collaborative brainstorming.
+
+2. [Coggle](https://coggle.it/): Coggle offers free collaborative mind maps for personal and team use.
+
+## Free Social Media Management:
+1. [Hootsuite](https://hootsuite.com/): Hootsuite provides a free version for managing multiple social media accounts.
+
+2. [Buffer](https://buffer.com/): Buffer offers a free plan for social media scheduling and analytics.
+
+
 
 ## Free Web Hosting:
 1. [InfinityFree](https://infinityfree.net/): InfinityFree offers unlimited disk space and bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
