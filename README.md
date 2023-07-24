@@ -1,5 +1,5 @@
 # free-services
-free-services is a Markdown Free Hosting Services List.
+free-services is a Markdown Free Online Services List.
 
 ## Free Web Hosting:
 1. [InfinityFree](https://infinityfree.net/): InfinityFree offers unlimited disk space and bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
@@ -86,3 +86,46 @@ free-services is a Markdown Free Hosting Services List.
 9. [Haystack News](https://www.haystack.tv/): Haystack News provides free live streaming of local, national, and international news.
 
 10. [Puffer](https://puffer.stanford.edu/): Puffer is a free live TV and video recording service provided by Stanford University. It allows users to watch and record live TV broadcasts from selected channels, as well as manage their recordings for later viewing. Please note that Puffer's availability and supported channels may vary, and it is primarily aimed at users in the United States.
+
+## Free Email Providers:
+1. [Gmail](https://mail.google.com/): Gmail by Google is one of the most popular and feature-rich free email providers.
+
+2. [Outlook.com](https://www.outlook.com/): Outlook.com (formerly Hotmail) is a free email service provided by Microsoft.
+
+3. [Yahoo Mail](https://mail.yahoo.com/): Yahoo Mail offers free email accounts with a user-friendly interface.
+
+4. [ProtonMail](https://protonmail.com/): ProtonMail is an encrypted email service that prioritizes user privacy and security.
+
+## Free Cloud Storage Providers:
+1. [Google Drive](https://www.google.com/drive/): Google Drive offers 15 GB of free cloud storage and integrates with other Google services.
+
+2. [Dropbox](https://www.dropbox.com/): Dropbox provides 2 GB of free cloud storage and allows easy file sharing and synchronization.
+
+3. [OneDrive](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage): OneDrive by Microsoft offers 5 GB of free cloud storage and integrates with Microsoft Office applications.
+
+4. [Mega](https://mega.nz/): Mega offers 50 GB of free encrypted cloud storage with end-to-end encryption for added security.
+
+## Free Communication and Messaging Apps:
+1. [WhatsApp](https://www.whatsapp.com/): WhatsApp allows free text messaging, voice calling, and video calling over the internet.
+
+2. [Telegram](https://telegram.org/): Telegram is a secure messaging app that supports encrypted messaging, voice calling, and file sharing.
+
+3. [Signal](https://www.signal.org/): Signal is a privacy-focused messaging app that offers end-to-end encryption for messages and calls.
+
+4. [Skype](https://www.skype.com/): Skype provides free video calling, voice calling, and messaging services over the internet.
+
+## Free Office Suite Software:
+1. [LibreOffice](https://www.libreoffice.org/): LibreOffice is a free and open-source office suite that includes word processing, spreadsheets, presentations, and more.
+
+2. [Apache OpenOffice](https://www.openoffice.org/): Apache OpenOffice is another free office suite alternative with similar features to Microsoft Office.
+
+## Free Password Managers:
+1. [LastPass](https://www.lastpass.com/): LastPass offers a free version that securely stores your passwords and login credentials.
+
+2. [Bitwarden](https://bitwarden.com/): Bitwarden is an open-source password manager that provides free and secure password storage.
+
+## Free VPN Services:
+1. [ProtonVPN](https://protonvpn.com/): ProtonVPN offers a limited free version with secure and private internet browsing.
+
+2. [TunnelBear](https://www.tunnelbear.com/): TunnelBear provides a free VPN plan with a data limit for secure internet browsing.
+
