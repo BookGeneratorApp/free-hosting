@@ -56,3 +56,7 @@ free-hosting is a Markdown Free Hosting Services List.
 
 4. [Peertube](https://joinpeertube.org/): Peertube is a decentralized video hosting platform, where you can host videos on your own server or join existing instances for free.
 
+## Free Wiki Hosting:
+1. [Fandom](https://www.fandom.com/): Fandom (formerly Wikia) offers free wiki hosting for communities to create, share, and collaborate on wikis related to various topics and interests.
+
+2. [Miraheze](https://miraheze.org/): Miraheze is a free wiki hosting platform that provides MediaWiki-based wikis for individuals and communities to collaborate and share knowledge.
