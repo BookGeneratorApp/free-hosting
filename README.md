@@ -1,5 +1,5 @@
-# free-hosting
-free-hosting is a Markdown Free Hosting Services List.
+# free-services
+free-services is a Markdown Free Hosting Services List.
 
 ## Free Web Hosting:
 1. [InfinityFree](https://infinityfree.net/): InfinityFree offers unlimited disk space and bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
