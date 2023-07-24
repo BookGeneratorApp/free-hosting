@@ -75,6 +75,27 @@ free-services is a Markdown Free Online Services List.
 2. [Buffer](https://buffer.com/): Buffer offers a free plan for social media scheduling and analytics.
 
 
+## Free AI Chatbots:
+1. [ChatGPT](https://chat.openai.com/): ChatGPT by OpenAI is a free AI-powered chatbot that can engage in natural language conversations.
+
+2. [Dialogflow](https://cloud.google.com/dialogflow/): Dialogflow by Google offers a free tier for building AI chatbots and conversational interfaces.
+
+3. [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant/): IBM Watson Assistant provides a free version to create and deploy chatbots.
+
+4. [Pandorabots](https://www.pandorabots.com/): Pandorabots offers a free tier for building and deploying chatbots using AIML and other languages.
+
+5. [QnA Maker](https://www.qnamaker.ai/): QnA Maker by Microsoft allows users to create free AI chatbots for answering questions based on FAQs.
+
+6. [Flow.ai](https://flow.ai/): Flow.ai provides a free plan to build and deploy chatbots across various messaging platforms.
+
+7. [Tars](https://hellotars.com/): Tars offers a free trial version for creating conversational chatbots for websites and landing pages.
+
+8. [Landbot](https://landbot.io/): Landbot provides a free plan to create AI chatbots for lead generation and customer support.
+
+9. [Botpress](https://botpress.com/): Botpress is an open-source chatbot creation platform with a free version for developers.
+
+10. [Rasa](https://rasa.com/): Rasa is an open-source AI chatbot framework with a free version for building contextual assistants.
+
 
 ## Free Web Hosting:
 1. [InfinityFree](https://infinityfree.net/): InfinityFree offers unlimited disk space and bandwidth, supporting PHP, MySQL, and more. It provides a website builder and free subdomains.
