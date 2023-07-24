@@ -64,3 +64,25 @@ free-services is a Markdown Free Hosting Services List.
 1. [Fandom](https://www.fandom.com/): Fandom (formerly Wikia) offers free wiki hosting for communities to create, share, and collaborate on wikis related to various topics and interests.
 
 2. [Miraheze](https://miraheze.org/): Miraheze is a free wiki hosting platform that provides MediaWiki-based wikis for individuals and communities to collaborate and share knowledge.
+
+## Free Live TV Services:
+
+1. [Pluto TV](https://pluto.tv/): Pluto TV offers over 250 channels with a mix of movies, TV shows, news, and live events.
+
+2. [XUMO](https://www.xumo.tv/): XUMO provides free live streaming of over 190 channels, including news, sports, movies, and lifestyle content.
+
+3. [Peacock TV](https://www.peacocktv.com/): Peacock TV offers a selection of live channels, including news, sports, and entertainment.
+
+4. [Redbox Free Live TV](https://www.redbox.com/stream-free-live-tv): Redbox offers a variety of live TV channels, including news and entertainment, free of charge.
+
+5. [Pluto Latino](https://pluto.tv/latino): Pluto TV's Latino section offers free live TV channels in Spanish and Portuguese.
+
+6. [STIRR](https://stirr.com/): STIRR provides free live local news, TV shows, movies, and sports.
+
+7. [NewsON](https://newson.us/): NewsON offers free live streaming of local news from across the United States.
+
+8. [IMDb TV](https://www.imdb.com/tv/): IMDb TV offers a collection of live TV channels alongside on-demand movies and TV shows.
+
+9. [Haystack News](https://www.haystack.tv/): Haystack News provides free live streaming of local, national, and international news.
+
+10. [Puffer](https://puffer.stanford.edu/): Puffer is a free live TV and video recording service provided by Stanford University. It allows users to watch and record live TV broadcasts from selected channels, as well as manage their recordings for later viewing. Please note that Puffer's availability and supported channels may vary, and it is primarily aimed at users in the United States.
