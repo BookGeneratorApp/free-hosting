@@ -129,3 +129,57 @@ free-services is a Markdown Free Online Services List.
 
 2. [TunnelBear](https://www.tunnelbear.com/): TunnelBear provides a free VPN plan with a data limit for secure internet browsing.
 
+## Free Image Hosting:
+1. [Imgur](https://imgur.com/): Imgur is a popular free image hosting platform where users can upload and share images and GIFs.
+
+2. [PostImage](https://postimages.org/): PostImage allows users to upload images and share them on forums and websites.
+
+3. [ImgBB](https://imgbb.com/): ImgBB offers free image hosting with easy sharing options.
+
+## Free File Sharing and Transfer:
+1. [WeTransfer](https://wetransfer.com/): WeTransfer allows users to send large files up to 2GB for free.
+
+2. [SendGB](https://www.sendgb.com/): SendGB offers free file transfers up to 5GB without the need for registration.
+
+3. [Firefox Send](https://send.firefox.com/): Firefox Send allows encrypted file sharing with a limited file size.
+
+## Free Project Management Tools:
+1. [Trello](https://trello.com/): Trello provides a free project management platform using boards, lists, and cards for task organization.
+
+2. [Asana](https://asana.com/): Asana offers a free version for teams to manage tasks, projects, and workflows.
+
+3. [ClickUp](https://clickup.com/): ClickUp provides a free project management tool with various features for teams and individuals.
+
+## Free Online Learning Platforms:
+1. [Coursera](https://www.coursera.org/): Coursera offers free online courses from top universities and institutions.
+
+2. [edX](https://www.edx.org/): edX provides free online courses from universities around the world.
+
+3. [Khan Academy](https://www.khanacademy.org/): Khan Academy offers free educational content in various subjects.
+
+## Free Language Learning Apps:
+1. [Duolingo](https://www.duolingo.com/): Duolingo offers free language learning courses in a gamified format.
+
+2. [Memrise](https://www.memrise.com/): Memrise provides free language learning courses with a focus on vocabulary.
+
+3. [HelloTalk](https://www.hellotalk.com/): HelloTalk allows language learners to connect with native speakers for language exchange.
+
+## Free Personal Finance Management:
+1. [Mint](https://www.mint.com/): Mint is a free personal finance management app that helps track expenses, budgets, and investments.
+
+2. [Personal Capital](https://www.personalcapital.com/): Personal Capital offers free financial tools to manage investments and track net worth.
+
+## Free Health and Fitness Apps:
+1. [MyFitnessPal](https://www.myfitnesspal.com/): MyFitnessPal allows users to track diet and exercise for better health management.
+
+2. [Nike Training Club](https://www.nike.com/ntc-app): Nike Training Club offers free workout routines and training plans.
+
+## Free Online Collaboration Tools:
+1. [Slack](https://slack.com/): Slack provides a free version for team communication and collaboration.
+
+2. [Discord](https://discord.com/): Discord offers free voice, video, and text communication for gamers and communities.
+
+## Free Web Conferencing and Virtual Meetings:
+1. [Zoom](https://zoom.us/): Zoom offers free video conferencing for meetings with up to 100 participants and a 40-minute time limit.
+
+2. [Google Meet](https://meet.google.com/): Google Meet provides free video conferencing for up to 100 participants and no time limit (until March 2023).
