@@ -11,7 +11,7 @@ free-hosting is a Markdown Free Online Services List.
 
 4. [Freehostia](https://www.freehostia.com/): Freehostia provides 250 MB disk space, 6 GB bandwidth, PHP, MySQL, and the ability to host up to 5 domains.
 
-5. [Byethost](https://byet.host/): Byethost offers 1 GB disk space, 50 GB bandwidth, FTP access, and a website builder with no forced ads.
+5. [ByetHost](https://byet.host/): ByetHost offers 1 GB disk space, 50 GB bandwidth, FTP access, and a website builder with no forced ads.
 
 6. [GoogieHost](https://googiehost.com/): GoogieHost offers unlimited disk space, bandwidth, and MySQL databases. It provides website templates and a website builder.
 
@@ -28,6 +28,10 @@ free-hosting is a Markdown Free Online Services List.
 12. [TuxFamily](https://www.tuxfamily.org/): TuxFamily provides free hosting for projects that are open-source, collaborative, or non-profit, offering various services like web hosting, version control, and more.
 
 13. [InstaFree](http://instafree.com/): InstaFree offers free web hosting with unlimited disk space, bandwidth, and FTP accounts. It supports PHP, MySQL, and cPanel.
+
+14. [ProFreeHost](https://profreehost.com/): ProFreeHost provides free hosting with unlimited bandwidth and storage, PHP, MySQL, and Softaculous script installer.
+
+15. [FreeHosting.com](https://www.freehosting.com/): FreeHosting.com offers free hosting with 10 GB disk space, unlimited bandwidth, and supports PHP, MySQL, and cPanel.
 
 ## Free Reseller Hosting:
 1. [ResellersPanel](https://www.resellerspanel.com/): ResellersPanel provides a free reseller hosting program with no initial deposit required. You can sell web hosting, VPS, dedicated servers, and domain names.
@@ -65,4 +69,5 @@ free-hosting is a Markdown Free Online Services List.
 1. [Fandom](https://www.fandom.com/): Fandom (formerly Wikia) offers free wiki hosting for communities to create, share, and collaborate on wikis related to various topics and interests.
 
 2. [Miraheze](https://miraheze.org/): Miraheze is a free wiki hosting platform that provides MediaWiki-based wikis for individuals and communities to collaborate and share knowledge.
+
 
