@@ -32,6 +32,8 @@ free-hosting is a Markdown Free Online Services List.
 14. [ProFreeHost](https://profreehost.com/): ProFreeHost provides free hosting with unlimited bandwidth and storage, PHP, MySQL, and Softaculous script installer.
 
 15. [FreeHosting.com](https://www.freehosting.com/): FreeHosting.com offers free hosting with 10 GB disk space, unlimited bandwidth, and supports PHP, MySQL, and cPanel.
+  
+17. [Xrea](https://www.xrea.com/): Xrea is a free web hosting service that offers 500 MB disk space, 5 GB monthly traffic, and supports PHP and MySQL. It also provides a website builder and easy domain registration.
 
 ## Free Reseller Hosting:
 1. [ResellersPanel](https://www.resellerspanel.com/): ResellersPanel provides a free reseller hosting program with no initial deposit required. You can sell web hosting, VPS, dedicated servers, and domain names.
