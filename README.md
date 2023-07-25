@@ -17,7 +17,7 @@ free-hosting is a Markdown Free Online Services List.
 
 7. [x10Hosting](https://x10hosting.com/): x10Hosting offers unlimited disk space, bandwidth, and cPanel access. It supports PHP, MySQL, and one-click installs for popular scripts.
 
-8. [5GBFree](https://www.5gbfree.com/): 5GBFree provides 5 GB disk space, 20 GB bandwidth, PHP, MySQL, and Softaculous script installer.
+8. [FreeHostingNoAds](https://www.freehostingnoads.net/): FreeHostingNoAds offers 20 GB disk space, 200 GB bandwidth, PHP, MySQL, and an easy-to-use website builder. As the name suggests, it provides ad-free hosting services for a clean and professional website experience.
 
 9. [FreeHostingEU](https://www.freehostingeu.com/): FreeHostingEU offers 200 MB disk space, 4 GB bandwidth, and supports PHP, MySQL, and more.
 
